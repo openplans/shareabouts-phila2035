@@ -422,8 +422,8 @@ pages:
         external: true
         url: http://bit.ly/104yB44
       - title: _(Existing Conditions)
-        slug: existing
-        url: /static/pages/existing.html
+        external: true
+        url: http://philadelphia.maps.arcgis.com/apps/StorytellingTextLegend/index.html?appid=6519f530df874310b9520ccfcdbcd789
   - title: _(TIMELINE)
     slug: timeline
     url: /static/pages/timeline.html
